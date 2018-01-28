@@ -1,0 +1,21 @@
+var i=0;
+var A1 = i++; var B1 = i++; var C1 = i++; var D1 = i++;
+var E1 = i++; var F1 = i++; var G1 = i++; var H1 = i++;
+var A2 = i++; var B2 = i++; var C2 = i++; var D2 = i++;
+var E2 = i++; var F2 = i++; var G2 = i++; var H2 = i++;
+var A3 = i++; var B3 = i++; var C3 = i++; var D3 = i++;
+var E3 = i++; var F3 = i++; var G3 = i++; var H3 = i++;
+var A4 = i++; var B4 = i++; var C4 = i++; var D4 = i++;
+var E4 = i++; var F4 = i++; var G4 = i++; var H4 = i++;
+var A5 = i++; var B5 = i++; var C5 = i++; var D5 = i++;
+var E5 = i++; var F5 = i++; var G5 = i++; var H5 = i++;
+var A6 = i++; var B6 = i++; var C6 = i++; var D6 = i++;
+var E6 = i++; var F6 = i++; var G6 = i++; var H6 = i++;
+var A7 = i++; var B7 = i++; var C7 = i++; var D7 = i++;
+var E7 = i++; var F7 = i++; var G7 = i++; var H7 = i++;
+var A8 = i++; var B8 = i++; var C8 = i++; var D8 = i++;
+var E8 = i++; var F8 = i++; var G8 = i++; var H8 = i++;
+var PASS = i++; var NOMOVE = i++;
+
+i=0;
+var BLACK = i++; var WHITE = i++; var EMPTY = i++; var OFF_SIDE = i++;

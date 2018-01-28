@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+CACHE:
+edax.js.mem
+edax.data
+index.html
+jsprin.js
+wk_book.js
+wk_eval.js
+
+NETWORK:
+*
