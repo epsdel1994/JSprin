@@ -1,5 +1,4 @@
 CACHE MANIFEST
-#Version 1.0.3
 
 CACHE:
 edax.js.mem
@@ -11,3 +10,5 @@ wk_eval.js
 
 NETWORK:
 *
+
+#BUILD 2

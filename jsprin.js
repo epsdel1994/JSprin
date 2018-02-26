@@ -1043,7 +1043,7 @@ e_ui.event.button = function(n){
       e_board.editend();
       e_ui.state = 0;
     } else if(e_ui.state === 2){
-      location.href = "http://github.com/epsdel1994/JSprin";
+      window.open("https://github.com/epsdel1994/JSprin/");
     } else if(e_ui.state === 3){
       if(e_ui.load_n !== 0){
         e_board.load();
